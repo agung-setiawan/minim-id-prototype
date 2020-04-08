@@ -1,0 +1,30 @@
+.card-columns {
+  column-count: 4 !important;
+}
+.itemsTitle,
+.itemsDesc {
+  text-align: left;
+}
+.featured-block .inner-box .image {
+  border-top: 1px solid #e7e6e6 !important;
+  border-left: 1px solid #e7e6e6 !important;
+  border-right: 1px solid #e7e6e6 !important;
+  border-bottom: 1px solid #f5f5f5 !important;
+}
+.featured-block .inner-box .image img {
+  width: 98%;
+  margin: 2px auto;
+}
+.author {
+  padding-left: 0 !important;
+}
+.text {
+  height: 47px;
+  overflow: hidden;
+}
+.featured-block .inner-box .lower-content h3 {
+  line-height: 20px;
+  font-size: 17px;
+  text-transform: capitalize !important;
+  height: 38px;
+}

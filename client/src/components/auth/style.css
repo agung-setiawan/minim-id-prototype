@@ -1,0 +1,94 @@
+.main {
+  max-width: 420px;
+  margin: 0 auto;
+}
+.loginOr {
+  position: relative;
+  font-size: 18px;
+  color: #aaa;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.spanOr {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: -2px;
+  margin-left: -25px;
+  background-color: #fff;
+  width: 50px;
+  text-align: center;
+}
+.hrOr {
+  background-color: #cdcdcd;
+  height: 1px;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+h3 {
+  text-align: center;
+  line-height: 300%;
+}
+.rememberMe {
+  margin-top: 10px;
+}
+
+.loginInnerMessage {
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+  background-color: #f5f5f5;
+  margin: 10px 0 10px 0;
+  display: none;
+}
+
+.default {
+  border: 1px solid #ccc;
+}
+
+.dividerText {
+  position: relative;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.dividerText span {
+  padding: 7px;
+  font-size: 12px;
+  position: relative;
+  z-index: 2;
+}
+.dividerText:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  border-bottom: 1px solid #ddd;
+  top: 55%;
+  left: 0;
+  z-index: 1;
+}
+.btnFacebook {
+  background-color: #405d9d;
+  color: #fff;
+}
+.btnFacebook:hover {
+  color: #aaa;
+}
+.btnTwitter {
+  background-color: #42aeec;
+  color: #fff;
+}
+.bg-light {
+  padding: 7px 10px 7px 10px !important;
+}
+.form-group input[type="text"],
+input[type="email"],
+input[type="password"],
+a,
+p,
+.btn,
+.bg-light {
+  font-family: inherit;
+}

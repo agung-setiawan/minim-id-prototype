@@ -1,0 +1,65 @@
+.resultContainer {
+  background-color: white;
+  width: 100%;
+}
+
+.resultContainer input[type="text"],
+.resultContainer select {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.resultContainer input[type="text"] {
+  border: 0;
+}
+
+.resultContainer input[type="text"]:focus {
+  box-shadow: none;
+}
+
+.resultContainer .btnResult {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 85px;
+  color: #1e2230;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 12px 36px 12px;
+  background-color: #3f9b77;
+  font-family: "Alata", sans-serif;
+  border-radius: 0 !important;
+}
+
+.hideMe {
+  display: none;
+}
+
+.showMe {
+  display: block;
+}
+
+.addInfoTitle {
+  font-size: 15px;
+  text-align: center;
+}
+
+.shortenDescription {
+  margin: 10px;
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #aaa;
+}
+
+.typeCounting {
+  font-size: 14px;
+  background-color: #fff;
+  margin-top: 5px;
+  padding: 7px;
+  border: 1px solid #aaa;
+  width: 50px;
+  text-align: center;
+}
+
+.tightHeight {
+  height: 100vh;
+}

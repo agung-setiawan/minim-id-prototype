@@ -1,0 +1,36 @@
+{
+  "api": "https://minim-id-prototype.herokuapp.com",
+  "pageInList": [
+    "",
+    "/",
+    "#!",
+    "home",
+    "tentang-kami",
+    "hubungi-kami",
+    "fitur",
+    "profile",
+    "login",
+    "register",
+    "register-success",
+    "forgot-password",
+    "admin",
+    "dashboard",
+    "public-shorten",
+    "private-shorten",
+    "channel-list",
+    "create-new-channel"
+  ],
+  "headerStyle": [
+    "tentang-kami",
+    "blog",
+    "ngobrol",
+    "login",
+    "register",
+    "dashboard",
+    "public-shorten",
+    "private-shorten",
+    "channel-list",
+    "create-new-channel"
+  ],
+  "headerTwoStyle": ["", "/", "home", "dashboard"]
+}

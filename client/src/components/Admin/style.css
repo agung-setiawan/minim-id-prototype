@@ -1,0 +1,49 @@
+.sec-title {
+  width: 100%;
+}
+.sec-title .inner-message {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.shorten-list {
+  border-bottom: 1px solid #dee2e6;
+  margin-bottom: 10px;
+}
+.shorten-list .card-title {
+  font-size: 14px;
+  font-weight: bold;
+}
+.shorten-list .card-title a:hover {
+  text-decoration: underline;
+}
+.shorten-list .card-text {
+  font-size: 14px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.pagination {
+  float: right;
+}
+.text .text-title {
+  font-size: 25px;
+  font-weight: lighter;
+}
+.feature-block-three .inner-box h3 {
+  text-align: left;
+}
+.feature-block-three .inner-box h3 a {
+  font-family: "Montserrat", sans-serif;
+}
+.panel-title .icon {
+  color: #6fa456;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.feature-block-three {
+  margin-bottom: 0px;
+}
+.feature-block-three .inner-box .icon-box {
+  margin-bottom: 0px;
+}

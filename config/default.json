@@ -1,0 +1,28 @@
+{
+  "mongoURI": "mongodb+srv://agung_set_123:Karkunku_12@minimprototype-nwzd5.mongodb.net/MinimID?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "sendGridKey": "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",
+  "cloud_name": "minim-id",
+  "api_key": "552986963783848",
+  "api_secret": "wSEJMmrDvHyiJrcx013qKPYHT0k",
+  "api_domain": "http://localhost:5000",
+  "main_domain": "http://localhost:3000",
+  "pageInList": [
+    " ",
+    "home",
+    "about-us",
+    "contact-us",
+    "profile",
+    "login",
+    "register",
+    "admin"
+  ],
+  "headerStyle": [
+    "tentang-kami",
+    "blog",
+    "ngobrol",
+    "login",
+    "register",
+    "admin"
+  ]
+}
